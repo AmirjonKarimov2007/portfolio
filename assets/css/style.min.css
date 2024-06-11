@@ -1079,7 +1079,7 @@ p:last-child {
 }
 @media (min-width: 1200px) {
   .hero-content .title-large {
-    font-size: 90px;
+    font-size: 80px;
   }
 }
 @media (min-width: 1400px) {
@@ -3799,6 +3799,9 @@ p:last-child {
 }
 .header-logo {
   display: block;
+}
+.header-logo img{
+  width: 150px;
 }
 .header-nav {
   display: -webkit-box;
