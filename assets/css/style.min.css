@@ -3956,6 +3956,9 @@ p:last-child {
   background: #2a2c39;
   padding: 20px 0;
 }
+.mobile-logo {
+  width: 100px;
+}
 .mobile-action-link {
   font-size: 24px;
 }
